@@ -1,4 +1,4 @@
-<h1 align="left">Hallo 👋, Ich bin Ali Öztürk</h1>
+<h1 align="left">Hallo 👋, ich bin Ali Öztürk</h1>
 <h3 align="left">Ein leidenschaftlicher Softwareentwickler aus Deutschland</h3>
 
 - 🔭 Ich arbeite derzeit an [XrmEarth Workflows Library](https://github.com/aliozturkws/xrmearth.workflows)
