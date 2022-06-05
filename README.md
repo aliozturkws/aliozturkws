@@ -7,7 +7,7 @@
 
 - 👨‍💻 Alle meine Projekte sind unter verfügbar [https://github.com/aliozturkws](https://github.com/aliozturkws)
 
-- 💬 Frag mich etwas über **microsoft dynamics crm und sdk**
+- 💬 Frag mich etwas über **Microsoft Dynamics CRM und SDK**
 
 - 📫 So erreichen Sie mich **mail.aliozturk@gmail.com**
 
