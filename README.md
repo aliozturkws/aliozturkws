@@ -3,7 +3,7 @@
 
 - 🔭 Ich arbeite derzeit an [XrmEarth Workflows Library](https://github.com/aliozturkws/xrmearth.workflows)
 
-- 🌱 Ich lerne gerade **Deutsch Microsoft Azure World**
+- 🌱 Ich lerne gerade **Deutsch und Microsoft Azure World**
 
 - 👨‍💻 Alle meine Projekte sind unter verfügbar [https://github.com/aliozturkws](https://github.com/aliozturkws)
 
