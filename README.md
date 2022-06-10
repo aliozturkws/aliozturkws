@@ -5,7 +5,7 @@
 
 - 🌱 Ich lerne gerade **Deutsch und Microsoft Azure World**
 
-- 👨‍💻 Alle meine Projekte sind unter verfügbar [https://github.com/aliozturkws](https://github.com/aliozturkws)
+- 👨‍💻 Alle meine Projekte sind unter verfügbar [https://github.com/repositories](https://github.com/aliozturkws?tab=repositories)
 
 - 💬 Frag mich etwas über **Microsoft Dynamics CRM und SDK**
 
